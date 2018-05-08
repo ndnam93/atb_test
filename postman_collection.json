@@ -37,7 +37,7 @@
 		{
 			"name": "Get User",
 			"request": {
-				"url": "http://localhost/atb_test/public/get-user",
+				"url": "http://localhost/atb_test/public/user",
 				"method": "GET",
 				"header": [
 					{
