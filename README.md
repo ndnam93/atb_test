@@ -2,6 +2,7 @@
 Test task for Allied Tech Base
 
 ###Guide:
+- Run composer install
 - Set database credentials to config.json
 - POST email and password to /login to get JWT token
   Default email/password: admin@admin.com/1234
